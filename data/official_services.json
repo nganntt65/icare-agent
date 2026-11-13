@@ -1,0 +1,97 @@
+{
+  "university_name": "National Taiwan University / Campus Consortium Partner",
+  "version": "1.0.0",
+  "services": {
+    "oia": {
+      "name": "Office of International Affairs (OIA / 國際事務處)",
+      "description": "Primary administrative point of contact for international student visas, ARC certificates, NHI insurance, and student support.",
+      "building": "Administration Building",
+      "room": "Room 201",
+      "office_hours": "Monday - Friday, 09:00 - 12:00, 13:30 - 17:00",
+      "phone": "+886-2-3366-2007",
+      "email": "intladm@university.edu.tw",
+      "portal_url": "https://oia.university.edu.tw",
+      "walk_in_allowed": true
+    },
+    "nia_service_center": {
+      "name": "National Immigration Agency Taipei City Service Center (內政部移民署台北市服務站)",
+      "description": "Government authority handling Alien Resident Certificate (ARC) issuance, extensions, and residence permits.",
+      "address": "No. 15, Guangzhou St., Zhongzheng Dist., Taipei City",
+      "office_hours": "Monday - Friday, 08:00 - 17:00 (No lunch break)",
+      "phone": "+886-2-2388-9393",
+      "multilingual_helpline": "1990",
+      "portal_url": "https://www.immigration.gov.tw"
+    },
+    "health_center": {
+      "name": "Campus Health Center (衛生保健組)",
+      "description": "Receives Form B health exam reports, provides first aid, doctor consultations, and student health insurance claims.",
+      "building": "Student Activity Center Building B",
+      "room": "Room 102",
+      "office_hours": "Monday - Friday, 08:30 - 17:00",
+      "phone": "+886-2-3366-9595",
+      "email": "healthcenter@university.edu.tw",
+      "intake_form_url": "https://health.university.edu.tw/intake"
+    },
+    "counseling_center": {
+      "name": "Student Counseling & Well-being Center (學生心理諮商中心)",
+      "description": "Professional psychological counseling, cross-cultural adjustment assistance, and mental health crisis response.",
+      "building": "General Building",
+      "room": "Room 301",
+      "office_hours": "Monday - Friday, 08:30 - 17:30",
+      "phone": "+886-2-3366-2181",
+      "email": "counseling@university.edu.tw",
+      "emergency_intake_url": "https://counseling.university.edu.tw/crisis-intake"
+    },
+    "housing_office": {
+      "name": "Student Housing Service Division (住宿服務組)",
+      "description": "Oversees on-campus dorm check-in, room assignments, keys, deposits, and verified off-campus rentals.",
+      "building": "Administration Building",
+      "room": "Room 105",
+      "office_hours": "Monday - Friday, 08:30 - 17:00",
+      "phone": "+886-2-3366-2264",
+      "duty_extension": "3100",
+      "email": "dorm@university.edu.tw"
+    },
+    "academic_affairs": {
+      "name": "Division of Academic Affairs (教務處註冊與課務組)",
+      "description": "Manages course registration, add/drop periods, instructor overrides (加簽), and official transcripts.",
+      "building": "Administration Building",
+      "room": "Room 102",
+      "office_hours": "Monday - Friday, 08:30 - 17:00",
+      "phone": "+886-2-3366-2388"
+    },
+    "crisis_emergency": {
+      "campus_security_24h": {
+        "name": "Campus 24-Hour Emergency Security Office (校安中心)",
+        "phone": "+886-2-2362-0000",
+        "short_extension": "5555",
+        "availability": "24/7/365"
+      },
+      "national_hotlines": {
+        "suicide_prevention_hotline": {
+          "number": "1925",
+          "name": "Taiwan MOHW 24-Hour Suicide Prevention Helpline (安心專線)",
+          "language": "Mandarin, Taiwanese, English"
+        },
+        "lifeline_hotline": {
+          "number": "1995",
+          "name": "Taiwan Lifeline Crisis Hotline (生命線協談專線)",
+          "language": "Mandarin, Taiwanese"
+        },
+        "foreign_worker_and_student_helpline": {
+          "number": "1955",
+          "name": "Ministry of Labor 24-Hour Multilingual Protection Hotline (1955專線)",
+          "languages": "English, Vietnamese, Indonesian, Thai, Mandarin"
+        },
+        "police_emergency": {
+          "number": "110",
+          "name": "Police Department Emergency"
+        },
+        "ambulance_fire": {
+          "number": "119",
+          "name": "Fire & Medical Emergency Ambulance"
+        }
+      }
+    }
+  }
+}
